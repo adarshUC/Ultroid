@@ -5,3 +5,4 @@ python-decouple
 python-dotenv
 requests==2.26.0
 GitPython==3.1.18
+aiohttp==3.7.4
